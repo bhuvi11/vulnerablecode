@@ -1,4 +1,4 @@
-aiohttp==3.7.4
+aiohttp==3.9.2
 asgiref==3.2.7
 attrs==20.3.0
 backcall==0.1.0
